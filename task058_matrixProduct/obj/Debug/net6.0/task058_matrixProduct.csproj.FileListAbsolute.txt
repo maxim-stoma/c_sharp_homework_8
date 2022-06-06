@@ -1,0 +1,15 @@
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\bin\Debug\net6.0\task058_matrixProduct.exe
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\bin\Debug\net6.0\task058_matrixProduct.deps.json
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\bin\Debug\net6.0\task058_matrixProduct.runtimeconfig.json
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\bin\Debug\net6.0\task058_matrixProduct.dll
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\bin\Debug\net6.0\task058_matrixProduct.pdb
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.csproj.AssemblyReference.cache
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.AssemblyInfoInputs.cache
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.AssemblyInfo.cs
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.dll
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\refint\task058_matrixProduct.dll
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.pdb
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\task058_matrixProduct.genruntimeconfig.cache
+D:\Documents\Study\Homework\homework_8\task058_matrixProduct\obj\Debug\net6.0\ref\task058_matrixProduct.dll
