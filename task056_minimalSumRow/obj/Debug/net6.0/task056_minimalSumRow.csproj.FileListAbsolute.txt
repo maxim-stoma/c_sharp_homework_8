@@ -1,0 +1,15 @@
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\bin\Debug\net6.0\task056_minimalSumRow.exe
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\bin\Debug\net6.0\task056_minimalSumRow.deps.json
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\bin\Debug\net6.0\task056_minimalSumRow.runtimeconfig.json
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\bin\Debug\net6.0\task056_minimalSumRow.dll
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\bin\Debug\net6.0\task056_minimalSumRow.pdb
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.csproj.AssemblyReference.cache
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.AssemblyInfoInputs.cache
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.AssemblyInfo.cs
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.dll
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\refint\task056_minimalSumRow.dll
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.pdb
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\task056_minimalSumRow.genruntimeconfig.cache
+D:\Documents\Study\Homework\homework_8\task056_minimalSumRow\obj\Debug\net6.0\ref\task056_minimalSumRow.dll
