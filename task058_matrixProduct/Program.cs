@@ -5,7 +5,7 @@
     {
         for (int j = 0; j < colNumber; j++)
         {
-            result[i, j] = new Random().Next(1, 100);
+            result[i, j] = new Random().Next(1, 10);
         }
     }
     return result;
@@ -32,15 +32,52 @@ void PrintArray(int[,] arrayToPrint)
     }
 }
 
-
+int[,] MatrixMultiplication(int[,] matrixOne, int[,] matrixTwo, int finalRow, int finalColumn)
+{
+    int[,] resultMatrix = new int[finalRow, finalColumn];
+    for (int i = 0; i < finalRow; i++)
+    {
+        for (int j = 0; j < finalColumn; j++)
+        {
+            for (int k = 0; k < finalRow; k++)
+            {
+                resultMatrix[i, j] += (matrixOne[i, k] * matrixTwo[k, j]);
+            }
+        }
+    }
+    return resultMatrix;
+}
 
 Console.Clear();
+Console.WriteLine("Определяем размерность первой матрицы.");
 Console.Write("Введи количество строк: ");
-int rows = Convert.ToInt32(Console.ReadLine());
+int rows1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введи количество столбцов: ");
-int columns = Convert.ToInt32(Console.ReadLine());
+int columns1 = Convert.ToInt32(Console.ReadLine());
 
-int[,] randomArray = GetRandomArray(rows, columns);
-PrintArray(randomArray);
+Console.WriteLine("Определяем размерность второй матрицы.");
+Console.Write("Введи количество строк: ");
+int rows2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введи количество столбцов: ");
+int columns2 = Convert.ToInt32(Console.ReadLine());
 
+int[,] firstMatrix = GetRandomArray(rows1, columns1);
+PrintArray(firstMatrix);
+
+Console.WriteLine();
+
+int[,] secondMatrix = GetRandomArray(rows2, columns2);
+PrintArray(secondMatrix);
+Console.WriteLine();
+
+if (rows2 != columns1)
+{
+    Console.WriteLine("Дружище, такие матрицы нельзя перемножать...количество столбцов первой матрицы должно быть равно количеству строк второй матрицы.");
+}
+else
+{
+    Console.WriteLine("Итак, результат произведения матриц налицо:");
+    int[,] multipliedMatrix = MatrixMultiplication(firstMatrix, secondMatrix, rows1, columns2);
+    PrintArray(multipliedMatrix);
+}
 Console.ReadLine();
